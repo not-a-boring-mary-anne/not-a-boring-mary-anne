@@ -11,7 +11,7 @@
 
 ![](https://raw.githubusercontent.com/not-a-boring-mary-anne/not-a-boring-mary-anne/main/sema.jpg)
 
-- 🔭 I’m currently working on Biomedical Instrumentation & Product Development for Void Detection on Car Batteries
+- 🔭 I’m currently working on Biomedical Instrumentation & a Void Detection Device for Industrial Batteries
 - 🌱 I’m currently learning Python, Machine Learning and Wireless Comms (tech & devices)
 - 👯 I’m looking to collaborate on Automotive Engineering, Vehicle Electronics and Fuel economy
-- 💬 Ask me about circuit design, circuit simulation, hydroponics & container gardening
+- 💬 Ask me about circuit design, circuit simulation, photography, horror films, hydroponics & container gardening
